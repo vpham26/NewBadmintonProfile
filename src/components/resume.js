@@ -26,8 +26,8 @@ class Resume extends Component {
                         <p>(321) 948-5737</p>
                         <h5>Email</h5>
                         <p>vulong.pham26@gmail.com</p>
-                        <h5>website</h5>
-                        <p>mywebsite.com</p>
+                        <h5>Porfolio</h5>
+                        <p>https://k-react-porfolio.herokuapp.com/</p>
                         <hr style={{borderTop:'3px solid #833fb2', width:'50%'}} />
                     </Cell>
                     <Cell className="resume-right-col" col={8}>
