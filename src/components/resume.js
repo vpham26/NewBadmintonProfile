@@ -35,20 +35,26 @@ class Resume extends Component {
                     <Education
                         startYear={2012}
                         endYear={2017}
-                        schoolName="ClearOne Badminton Centre"
-                        schoolDescription="Head Coach - Hendry Winarto"
+                        schoolName="ClearOne Badminton Centre (Orlando, FL)"
+                        schoolDescription="Head Coach // Hendry Winarto"
                         />
                     <Education
                         startYear={2016}
                         endYear={2016}
-                        schoolName="Sports Affair (Malaysia)"
-                        schoolDescription="Assistant Coach - Nova Armada"
+                        schoolName="Sports Affair (Kuala Lumpur, Malaysia)"
+                        schoolDescription="Assistant Coach // Nova Armada"
                         />
                     <Education
                         startYear={2020}
                         endYear={2020}
-                        schoolName="Hi-Cock Club"
-                        schoolDescription="Head Coach - Ho Jeon Hong"
+                        schoolName="Hi-Cock Club (Daejeon, South Korea)"
+                        schoolDescription="Head Coach // Ho-Jeon Hong"
+                        />
+                    <Education
+                        startYear={2021}
+                        endYear={2021}
+                        schoolName="Club28 (Philadelphia, PA)"
+                        schoolDescription="Head Coach // Suthichon Pol-Gul"
                         />
                         <hr style={{borderTop:'3px solid #e22947'}}/>
                         
@@ -58,14 +64,21 @@ class Resume extends Component {
                          startYear={2012}
                          endYear={2017}
                          jobName="Various Universities Tournaments"
-                         jobDescription="Men Singles/Doubles & Mixed Winner/Runner-Up"
+                         jobDescription="Men Singles // Doubles // Mixed - Winner // Runner-Up"
                         />    
 
                         <Experience
                          startYear={2014}
                          endYear={2015}
                          jobName="US International Challenge"
-                         jobDescription="Participated in Men Singles and Men Doubles"
+                         jobDescription="Participated in Men Singles // Doubles"
+                        />    
+
+                        <Experience
+                         startYear={2014}
+                         endYear={2015}
+                         jobName="US Adult National"
+                         jobDescription="Participated in Men Singles // Doubles"
                         />    
 
                         <Experience
@@ -81,6 +94,14 @@ class Resume extends Component {
                          jobName="North Carolina Forza Open"
                          jobDescription="Men Doubles Quarter-Finalist // Consolation Men Single Semi-Finalist"
                         />    
+
+                        <Experience
+                         startYear={2017}
+                         endYear={2019}
+                         jobName="Various City Tournaments, Daejeon, South Korea"
+                         jobDescription="Men // Mixed Doubles Finalist"
+                        />    
+
                         <hr style={{borderTop:'3px solid #e22947'}}/>
 
                         <Skills
