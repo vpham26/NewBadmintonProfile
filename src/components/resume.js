@@ -104,6 +104,8 @@ class Resume extends Component {
 
                         <hr style={{borderTop:'3px solid #e22947'}}/>
 
+                        <h2>Skills</h2>
+
                         <Skills
                         skill="Foot Work"
                         progress={85}
